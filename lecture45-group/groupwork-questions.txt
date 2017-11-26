@@ -9,6 +9,7 @@
 7   Explain any specific theory that was used as a basis for this research.
 8   What was the methodology used for this research?
 9   What were the research methods used?
+	The research methods used is qualitative research. Interviewees include software managers, project managers and agile coaches. 
 10  What was used to analyze the data?
 11  What was concluded by this research?
 12  What avenue did this research have for future research of the same area?
