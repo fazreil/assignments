@@ -1,6 +1,7 @@
 
 
 1   What was the research about?
+	The research is about Data Driven Decision-making as a tool in Agile Software Organization.
 2   What was the main argument?
 	Data Driven Decision-Making approach improves the success rate of software development projects
 3   What are the research questions and objectives?
