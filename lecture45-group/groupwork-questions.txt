@@ -22,6 +22,7 @@
 	iv.	
 		What obstacles do software managers, project managers, and agile coaches in agile software environments think their organization needs to overcome to improve software development productivity?
 4   What were the areas covered in the literature review?
+	Areas covered in the literature review are software, software development productivity, agile software, analytics, and knowledge management
 5   Comment on how the literature review was carried out.
 6   Were there any conceptual model used? Explain the conceptual model.
 	Yes, conceptual model was used as part of the research. The conceptual model focuses on process. Three key items that defines a process was explored; people, tools and procedure.
