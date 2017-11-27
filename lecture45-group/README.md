@@ -25,6 +25,7 @@ Research Questions
 * knowledge management
 ---
 ### Comment on how the literature review was carried out.
+The literature review was conducted in such way that a thorough article search was performed in various repositories. Each keywords was used in combination to get a collection of item for review. The vast collection was then filtered out where irrelevant items were discarded.  
 ---
 ### Were there any conceptual model used? Explain the conceptual model.
 Yes, conceptual model was used as part of the research. The conceptual model focuses on process. Three key items that defines a process was explored; people, tools and procedure.
