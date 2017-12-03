@@ -34,9 +34,13 @@ Author/years| Title 	| Theory/Standpoint	| Domain 	| Significant Findings
 Edvinsson & Sullivan (1996)|Developing a Model for Managing Intellectual Capital|Although there has been an explosive interest in an intellectual capital and a thirst for information on how it might be managed, there has been little written to describe or define the concept.|Knowledge firm|This article provides background and definition to the notion of intellectual capital and describes where and how it fits into the 'knowledge company'. 
 Haider, Z. (2017) | Continuous Deployment for Complex Software Intensive Industrial Systems.	| Complex Software Intensive Industrial Systems require stable deployment process with attention to requirement and challenges. Improving delivery of Complex Software Intensive Industrial System takes careful setup of continuous delivery system. The Continuous Delivery system will focus on three main factors namely high level requirements, required attribute of software product, and challenges in deployments	| Industrial Systems |The article discusses the development of software delivery pipeline that manage to shorten time while preserving repeatability and reliability of the deployment process. 
 Jonker, M. (2017) | DevOps Implementation Model for Large IT Service Organizations | DevOps as a business process change is implemented through the understanding of six sigma elements. The challenge is developing DevOps process is that each organization implements it differently. To deliver the best approach in implementing DevOps the model takes consideration on business  process,  people, technology,  information,  organizational  culture  and  structures pillars of each organizations. | IT Service Organizations	| The Business pillars which are the basis of the implementation of DevOps model are all relevant in each scenario. However the dynamic nature of them suggests some building blocks for the implementation of DevOps; external drivers, component with its aspects, implementation approach, and critical organizational factors.
-y 			|			|					|			|h
+R. Feitjer (2017)|Towards the adoption of DevOps in software product organizations: A maturity model approach | DevOps is in its infant stage and not formally defined. Semi structured interviews and literature reviews are used to construct a model to assess maturity of DevOps organizations. In strengthening the finding, two rounds of validation were carried out before putting them into case studies. Where it describes various levels of maturity.		| Software Development 	|Six drivers and 63 capabilities were identified to define the maturity of DevOps implementation. These capabilities are grouped into three perspectives. All of them are used to gauge the competency in DevOps implementation.
 z			|			|					|			|i
-
+v			|			|					|			|e
+w			|			|					|			|d
+x			|			|					|			|c
+y			|			|					|			|b
+z			|			|					|			|a
 
 ```
 Haider, Z. (2017). Continuous Deployment for Complex Software Intensive Industrial Systems. 
