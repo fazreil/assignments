@@ -17,6 +17,8 @@
 [Main factors] - [required quality attributes of software product]
 [Main factors] - [challenges in the deployment]
 
+[stable deployment process]-[Main factors]
+
 [improvement|
 	[improve]->[quality]
 	[improve]->[productivity]
@@ -34,4 +36,5 @@
 [Processes] motivation ->[shorter time to market]
 [Processes] trend ->[Continuous Deployment]
 [Processes] benefit -> [quick deliver]
-[processes] benefit -> [improvement]
+[Processes] benefit -> [improvement]
+[Processes] focus - [Complex Software Intensive Industrial System]

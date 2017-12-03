@@ -32,7 +32,7 @@ Find 10 closely related papers to your research, examine the material to decide 
 Author/years| Title 	| Theory/Standpoint	| Domain 	| Significant Findings 
 ------------|-----------|-------------------|-----------|-------------------------
 Edvinsson & Sullivan (1996)|Developing a Model for Managing Intellectual Capital|Although there has been an explosive interest in an intellectual capital and a thirst for information on how it might be managed, there has been little written to describe or define the concept.|Knowledge firm|This article provides background and definition to the notion of intellectual capital and describes where and how it fits into the 'knowledge company'. 
-Haider, Z. (2017) | Continuous Deployment for Complex Software Intensive Industrial Systems.	|					|			|f
+Haider, Z. (2017) | Continuous Deployment for Complex Software Intensive Industrial Systems.	| Complex Software Intensive Industrial Systems require stable deployment process with attention to requirement and challenges. Improving delivery of Complex Software Intensive Industrial System takes careful setup of continuous delivery system. The Continuous Delivery system will focus on three main factors namely high level requirements, required attribute of software product, and challenges in deployments	| Industrial Systems |The article discusses the development of software delivery pipeline that manage to shorten time while preserving repeatability and reliability of the deployment process. 
 x			|			|					|			|g
 y 			|			|					|			|h
 z			|			|					|			|i
