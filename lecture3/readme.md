@@ -54,4 +54,6 @@ From the 10 papers:
 #### What premises from the literature was used as a basis for your argument? (5 marks) 
 > 
 #### Write your research problem in two (2) or three (3) paragraphs. Write your problem statement in not more than 250 words. (10 marks) 
-> 
+> IT Startups are small companies that begin its journey out of limited capital. Nevertheless these companies stands on the same heights with their established competitors in industry. Startups are backed by venture capitalists in term of monetary interest. Startups gets pressure to deliver right from the day of the idea was in inception stage. Their time to delivery is their critical dimension, which relatively translated to their whole business gets to fail it or nail it. The constant pressure to see their product materializes puts these organization with limited amount of manpower in a difficult position to handle every aspect of their business. Not just limited staff they have in hand but the complex nature of software stacks require great deal of resources and infrastructure for them to bring their product to the market. 
+
+> DevOps is the latest trend in software development approach. While established organization is racing to place their product in the market using DevOps approach, the startups need their own product to be in the market too. Configuration Management was always seems as a luxury for startups to have on their own. Reality is the idea of implementing DevOps was churned out of basic Software Configuration Management.
