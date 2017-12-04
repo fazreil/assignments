@@ -44,9 +44,14 @@ No.| Author/years| Title 	| Theory/Standpoint	| Domain 	| Significant Findings
 
 From the 10 papers: 
 #### What would be your conclusion? (5 marks) 
+> DevOps enables both continuous integration and continuous deployment, which make huge impact on software engineering process. DevOps bridges the shortcoming of previous software development methods. 
 #### What is the evidence that supports the conclusion? (5 marks) 
+> The papers discusses about delivering a good software from implementing DevOps in various domain. A maturity model is even developed by Feitjer to gauge how a software organization is performing. Djikstra takes DevOps as the next thing in line after perfecting agile principle in software project. Most of large IT companies has started to shift their current practise to implement DevOps.
 #### What areas has been overlooked/neglected? (5 marks) 
-The Software Development from the Startup scene is neglected
+> The Software Development from the Startup scene is neglected
 #### What would be the argument of your thesis? (5 marks) 
+> DevOps is a practise not exclusive to large IT companies. Startups can benefit from the opportunities DevOps are bringing. Lacking from a few aspect such as resource and infrastructure is the difference that separates small IT startups from large IT companies.
 #### What premises from the literature was used as a basis for your argument? (5 marks) 
+> 
 #### Write your research problem in two (2) or three (3) paragraphs. Write your problem statement in not more than 250 words. (10 marks) 
+> 
