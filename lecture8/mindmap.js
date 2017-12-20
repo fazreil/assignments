@@ -74,3 +74,67 @@
 [Title]->[Feasibility Study]
 [Feasibility Study]->[body governing study]
 [Feasibility Study]->[involvement in the field]
+
+[NEF|
+	- NGO
+	- National Enterpreneurs Fund
+]
+
+[MaGIC|
+	- Subdivision under MDEC
+	- support local startup in term of incubation
+]
+
+[JOMWeb|
+	- NGO
+	- consists of startups
+	- independent startups
+	- host JOM Launch, Tech Crunch alike event.
+]
+
+[body governing study] -> [NEF]
+[NEF] -> [JOMWeb]
+[body governing study] -> [MaGIC]
+
+[Previous studies]-[Huge impact on the process]
+[Previous studies]-[Bridges shortcoming]
+[Previous studies]-[DevOps principle]
+
+[Huge impact on the process|
+	- DevOps enables both continuous integration and continuous deployment
+	- make huge impact on software engineering process. 
+]
+
+[Bridges shortcoming|
+	- DevOps bridges the shortcoming of previous software development methods. 
+	- facilitate communication between the whole team
+]
+
+[DevOps principle|
+	- Just like agile principle in software development
+	- DevOps are also principles that these papers discussed 
+	- there is no certain software or is written in stone on how to practise it.
+]
+
+[Huge impact on the process] of -> [Established companies]
+[Bridges shortcoming] of -> [Established companies]
+[DevOps principle] of -> [Established companies]
+
+[Title]->[Previous studies]
+
+[SCM role|
+	- 2008 until 2013
+]
+
+[BE role|
+	- 2013 until 2017
+]
+
+[DevOps role|
+	- 2017 until now
+]
+
+
+[involvement in the field]->[SCM role]
+[involvement in the field]->[BE role]
+[involvement in the field]->[DevOps role]
