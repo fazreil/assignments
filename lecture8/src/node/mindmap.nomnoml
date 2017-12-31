@@ -1,0 +1,149 @@
+#direction: top
+#.main: fill=#FF0
+#.intro: fill=#88F
+#.introa: fill=#AAF
+#.introb: fill=#CCF
+#.introc: fill=#EEF
+#.method: fill=#F00
+#.methoda: fill=#F44
+#.methodb: fill=#F88
+#.lr: fill=#0F0
+#.lra: fill=#4F4
+#.lrb: fill=#8F8
+#.lrc: fill=#AFA
+
+[<main>Development Operations]
+
+[Development Operations] -> [<intro> Introduction]
+[<method> Qualitative Methods] <- [Development Operations]
+[<lr> Literature Review]<-[Development Operations]
+
+[<methoda>Interviews]<-[Qualitative Methods] 
+[<methoda>Case Studies]<-[Qualitative Methods] 
+
+[Introduction] -> [<introa> Problem Statements]
+[Introduction] -> [<introa> Objective] 	
+[Introduction] -> [<introa> Significance]
+
+[Problem Statements]->[<introb> PS1|
+	With limited staff Startup Companies have in hand to begin with 
+	the complex nature of software stacks require great deal of resources 
+	and infrastructure for them to bring their product to the market.
+]
+
+[Problem Statements]->[<introb> PS2|
+	Startups gets pressure to deliver quick, which relatively 
+	translated to their whole business gets to fail it or nail it.
+]
+
+[PS1] -> [<introa> Research Questions]
+[PS2] -> [<introa> Research Questions]
+
+[Research Questions]->[<introb> Team Size|
+	How DevOps can help 
+    in reducing human intervention 
+    in software delivery?
+]
+
+
+[Research Questions]->[<introb> Cost|
+    What is the cost 
+    of implementing DevOps 
+    in software development?
+]
+
+[Research Questions]->[<introb> Business Sustainability|
+    How does DevOps implementation 
+    play a significant role 
+    in determining success 
+    in software development?
+]
+
+[<lra>Impact]<-[<lr>Literature Review]
+[<lrb>Adoption]<-[Impact]
+[<lrc>Continuous Integration]<-[Adoption]
+[<lrc>Continuous Delivery]<-[Adoption]
+[<lrb>Business Sustainability study]<-[Impact]
+[<lra> Process]<-[Literature Review]
+[<lrb> Build Engineering]<-[Process]
+[<lrb> Software Configuration Management]<-[Process]
+[<lrb> Compliancy]<-[Process]
+
+[<lrc> Industrial Revolution 5.0]<-[Compliancy]
+[<lrc> Software Automation]<-[Software Configuration Management]
+[<lrc> Application Lifecycle Management]<-[Build Engineering]
+[<lrc> Time to Market]<-[Business Sustainability study]
+
+[Objective]->[<introb>Investigate|
+	Investigate implementation of DevOps in Malaysian Startup Company
+]
+
+[Objective]->[<introb> Roadmap|
+	Produce new guideline on how DevOps to be implemented
+]
+
+[<lra> Previous studies]<-[Literature Review]
+
+[Significance]->[<introb>body governing study]
+[Significance]->[<introb> involvement in the field]
+
+[<introc> SCM role|
+	- 2008 until 2013
+]
+
+[<introc> BE role|
+	- 2013 until 2017
+]
+
+[<introc> DevOps role|
+	- 2017 until now
+]
+
+[involvement in the field]->[SCM role]
+[involvement in the field]->[BE role]
+[involvement in the field]->[DevOps role]
+
+[<introc> NEF|
+	- NGO
+	- National Enterpreneurs Fund
+]
+
+[<introc> MaGIC|
+	- Subdivision under MDEC
+	- support local startup in term of incubation
+]
+
+[<introc> JOMWeb|
+	- NGO
+	- consists of startups
+	- independent startups
+	- host JOM Launch, Tech Crunch alike event.
+]
+
+[body governing study] -> [NEF]
+[NEF] -> [JOMWeb]
+[<introa> body governing study] -> [MaGIC]
+
+[Huge impact on the process]-[Previous studies]
+[Bridges shortcoming]-[Previous studies]
+[DevOps principle]-[Previous studies]
+
+[<lrb> Huge impact on the process|
+	- DevOps enables both continuous integration and continuous deployment
+	- make huge impact on software engineering process. 
+]
+
+[<lrb> Bridges shortcoming|
+	- DevOps bridges the shortcoming of previous software development methods. 
+	- facilitate communication between the whole team
+]
+
+[<lrb> DevOps principle|
+	- Just like agile principle in software development
+	- DevOps are also principles that these papers discussed 
+	- there is no certain software or is written in stone on how to practise it.
+]
+
+[<lrc> Established companies] <- of [Huge impact on the process] 
+[<lrc> Established companies] <- of [Bridges shortcoming]
+[<lrc> Established companies] <- of [DevOps principle]
